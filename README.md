@@ -1,6 +1,6 @@
 # toposort-object
 
-[![Build Status](https://travis-ci.org/sibnerian/toposort-object.svg?branch=master)](https://travis-ci.org/sibnerian/toposort-object)
+[![Build Status](https://travis-ci.org/sibnerian/toposort-object.svg?branch=master)](https://travis-ci.org/sibnerian/toposort-object) [![MIT License](https://img.shields.io/npm/l/ghooks.svg)](http://opensource.org/licenses/MIT)
 
 ## Install
 Install with [npm](https://npmjs.org/package/toposort-object)
