@@ -1,6 +1,6 @@
 {
   "name": "toposort-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Toposort an object that happens to be an adjacency list graph.",
   "main": "build/index.js",
   "scripts": {
